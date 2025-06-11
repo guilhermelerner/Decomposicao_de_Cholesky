@@ -2,7 +2,7 @@
 
 <h3 align="center">Implementação do metodo de Cholesky</h3>
 
-<p align="center">Chholesky paara resolução dde exercícios</p>
+<p align="center">Cholesky para resolução de exercícios</p>
 
 <br>
 
